@@ -1,0 +1,37 @@
+{
+  "name": "Frases emocionais",
+  "short_name": "Frases emocionais",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Frases e citações sentimentais sobre a vida para refletir!",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6CahZhFgArZrQsBArOUosdwB_a4jar_86-udIsYGJ4s7uOxxq9ZxZZZzVFsANmdObO6bQZYD8y0OEGZkl0AJPzOU-Y03atyIQ_BOqEuSVeJWZOSbtUAmkc6oxiWYePDA4ITrqXsiiSImvpYmAUXkWaVb6-84qr8x2hTJPmeBSDF00f6zI0Wm5xkTEQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5cK1PybYWAgrmmMGKyI6Qze45VFaEt32UKmn411jfxwbLYjssZb1QQuvrY-2s7cdnz8LNj7NWteF2aOWOm1puOS7V9iS6s4XuGGutiJ1IYcrVbxPS43prlttY9Q84_Tb9Rqn8WOetD9IukJu_j0R7CV7Q2NPEUgbfyqpiauXuY1rrnTGy7AIy0-OBSg/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZuE5ngLQfjnK2a-2V8EpdaT9DhWUkkEvGfJw2Q1ZhlgdfT1Oo9jmy4OOLUr-iJj78iMGlcYelbbHWOc3kf-ysRzGG6j--KCNch09n9QGTUAjG6J4pjDpZJOKrxtD_SLdusUW1yUOD6ebqr-DKbQudJJJ_sPHLm2zJBZglWOV6Y_hjSIMzOB5Q8o9mTQ/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGjQ689lTFM_0Heqb_4UFlF34UfYqcMDYs_zDpGzZaTpCLjg7AotASYLtnquiMAGDzHi6ITUyxiAyTtlq-sI7UM05qAiKNNPNvWfMjSll2mfluVzElX-ojfLNF1w_Ywtx05DcaKslsjsK7ODCkPrMUXme9znMecako-mu1wcJb17rYAq4EwV8dc1PoBA/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCADJPKlCv_MKYIf1Of50v_-3--aqVw98GB8Ul-co8usYlbC_KTpq0QvKWmpH5KtAkv_-1RfRfNao2l918svL02CB-_jKGYoFT2ajMXV-yEExceXkTRKKoooM04xrv_zClBTXETSnuYAPtACWfph5HJZvhmfhlt1JZI0xVlL3Dc9Jo3vGiWzKFlDOCdQ/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCMR0gfz4TMJY0bplHjXjQ0Ofm_KAYIS7TKBBvEW1QQzcBbQFOdkz3862Q_w33XtNK22UicVUAMPYKq_1-wUGGrQHuAs_cOE9iSOlNu21J7ngkMwZnhVVHJy3l5ZuzPqYxmIK243muOMlbd4NryP5TvCs1EH-sbnWRMcXGdASqriUfy-CtJYMQWVFsyw/s1600/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  } {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Fd4IfqCZTYVGNJUZZ-kM-CGS90w0DsUWv_Eq58zOhIEbpHFJGTHa9KJHSxqAqQM0F8KuAnQBaWQuL3uX8Fvq67aKI-EVikCHZ28v8U8ecLWdWqEev3WPWTWQImoKYvlQI8tnqXH2KSAC4M5b9MdaNKWTpS1FWina6kDv1C_la0wcIW5ntq7aG5u7PA/s1600/logo_frasesemocionais.png",
+    "sizes": "500x500",
+    "type": "image/png"
+}],
+}
